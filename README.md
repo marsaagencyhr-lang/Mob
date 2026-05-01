@@ -16,13 +16,15 @@ Google account.
   level insights from Meta Marketing API into your Sheet daily.
 - `apps-script/appsscript.json` — Apps Script manifest (timezone, scopes).
 - `SETUP.md` — step-by-step setup for Meta token, Apps Script, and Sheets.
-- `LOOKER_STUDIO_GUIDE.md` — chart-by-chart spec to build the dashboard.
+- `PORTER_CLONE_SPEC.md` — chart-by-chart spec for a 4-page agency
+  dashboard mirroring Porter Metrics' premium template, designed around
+  this repo's Sheet schema (no field remapping needed).
 
 ## Quick start
 
 1. Read `SETUP.md` and follow it end to end (~30 min).
-2. Once data lands in your Sheet, follow `LOOKER_STUDIO_GUIDE.md` to build
-   the dashboard.
+2. Once data lands in your Sheet, follow `PORTER_CLONE_SPEC.md` to build
+   the dashboard (~60 min).
 
 ## Cost
 
